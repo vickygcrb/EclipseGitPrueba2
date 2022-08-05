@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println("vaya mierda!!!!!!!");
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
 		System.out.println("Introduzca un entero");
